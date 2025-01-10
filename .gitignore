@@ -23,3 +23,5 @@ Thumbs.db
 *.sqlite
 *.sql
 *.swp
+chave
+chave.pub
